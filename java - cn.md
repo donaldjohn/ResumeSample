@@ -13,7 +13,7 @@
  - 工作年限：5年
  - Github：https://github.com/donaldjohn
  - 期望职位：Java高级程序员
- - 期望薪资：税前月薪20k~25k
+ - 期望薪资：税前月薪25k+
  - 期望城市：北京
  - 英语水平：IELTS 6.0/CET-6
  - PMP
