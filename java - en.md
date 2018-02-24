@@ -1,7 +1,7 @@
 ## CONTACT INFORMATION
 - Name: Zhao Changgang(赵昌刚)
 - Phone: 18501371514
-- Email: donaldjohn1@gmail.com / donaldjohn@qq.com
+- Email: donaldjohn@qq.com  /  donaldjohn1@gmail.com
 - Wechat: donaldjohn
 - QQ: 826135568
 - Facebook: zhaochanggang      
