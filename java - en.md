@@ -43,7 +43,7 @@ This is the official website of All-China Patent Attorneys Association with CMS,
 - In charge of developing queries and reports
 ---
 ## SKILLS
-- Frameworks: Ofbiz, Spring MVC, Spring boot, Hibernate, Java EE
+- Frameworks: Ofbiz, Spring MVC, Spring Framework, Hibernate, Java EE
 - Front-end Skills: HTML, Javascript, CSS, JQuery, FreeMarker, Markdown
 - Database: Oracle, SQL Server, MySQL, BaseX
   IDE: Eclipse, Intellij IDEA, Visual Studio, Visual Code, Atom
