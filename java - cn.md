@@ -1,7 +1,7 @@
 ## 联系方式
 - 姓名： 赵昌刚
 - 手机：18501371514
-- Email：donaldjohn1@gmail.com / donaldjohn@qq.com
+- Email：donaldjohn@qq.com / donaldjohn1@gmail.com
 - 微信号：donaldjohn
 - QQ: 826135568
 - Facebook: https://www.facebook.com/zhaochanggang      
