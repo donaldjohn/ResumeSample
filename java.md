@@ -46,7 +46,7 @@
 # 技能清单
 
 以下为我使用的技能
-- 开发框架：Ofbiz、Spring MVC、Spring boot、Hibernate、Java EE、MyBatis
+- 开发框架：Ofbiz、Spring MVC、Spring Framework、Hibernate、Java EE、MyBatis
 - 前端：HTML、javascript、CSS、JQuery、FreeMarker、Markdown
 - 数据库：Oracle、SQL Server、MySQL、BaseX
   开发工具：Eclipse、Intellij IDEA、Visual Studio
