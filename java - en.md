@@ -32,6 +32,7 @@ I participated this project from beginning to end. Laichushu is a portal website
 #### <a href="http://www.acpaa.cn/">Website of All-China Patent Attorneys Association</a>
 This is the official website of All-China Patent Attorneys Association with CMS, register, authority management, online enroll and online pay functions. I implemented the enroll and online pay part. This website is a typical Java EE project built with SSH(Spring MVC, Spring boot, Hibernate), it enhanced my Java EE knowledge.
 #### OTHERS
+- Trade Platform of patents
 - Patent Data Resource Management System: Parsing all kinds of patent data files and importing them into Oracle database, the format of those files are XML, mdb, xls, trs, prj and so on. The row numbers of tables are huge, I need to partition them and optimize the database.
 - Patent Reexamination Search System for Patent Reexamination Board of SIPO : the search system of reexamining cases based on Java EE.
 - Patent Document Producing Management System: All the official published patent documents are produced by IPPH, this is a Management system for the patent document producing department, I implemented parts of the search and statistics functions.
